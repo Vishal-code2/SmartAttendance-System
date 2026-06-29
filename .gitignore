@@ -1,0 +1,87 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Build folders
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# PyInstaller
+*.spec
+
+# Cython
+cython_debug/
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# SQLite databases (optional)
+*.db
+*.sqlite3
+
+# Environment variables
+.env
+.env.*
+
+# Temporary files
+*.tmp
+*.temp
+
+# Compiled extensions
+*.so
+*.pyd
+*.dll
+
+# Installer files
+*.exe
+*.msi
+
+# Archives
+*.zip
+*.tar
+*.gz
+*.7z
+*.rar
+
+# Python packaging
+pip-wheel-metadata/
+
+# Node (if applicable)
+node_modules/
+npm-debug.log*
+yarn-error.log*
