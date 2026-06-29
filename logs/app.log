@@ -1,0 +1,223 @@
+[2026-06-23 11:32:25] INFO [database:db_manager.py:27] - Initializing database at: test_smart_attend.db
+[2026-06-23 11:32:25] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-23 11:32:25] INFO [database:db_manager.py:159] - Student John Doe (STU001) added successfully with 1 encodings.
+[2026-06-23 11:32:25] INFO [database:db_manager.py:210] - Student STU001 deleted successfully.
+[2026-06-23 11:32:35] INFO [database:db_manager.py:27] - Initializing database at: test_smart_attend.db
+[2026-06-23 11:32:35] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-23 11:32:35] INFO [database:db_manager.py:159] - Student John Doe (STU001) added successfully with 1 encodings.
+[2026-06-23 11:32:35] INFO [database:db_manager.py:210] - Student STU001 deleted successfully.
+[2026-06-23 11:33:11] INFO [database:db_manager.py:27] - Initializing database at: data/smart_attend.db
+[2026-06-23 11:33:11] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-23 11:33:11] INFO [ml_predictor:predictor.py:196] - Starting historical data seeding process...
+[2026-06-23 11:33:11] INFO [database:db_manager.py:159] - Student Aarav Sharma (STU101) added successfully with 15 encodings.
+[2026-06-23 11:33:11] INFO [database:db_manager.py:159] - Student Ananya Verma (STU102) added successfully with 15 encodings.
+[2026-06-23 11:33:11] INFO [database:db_manager.py:159] - Student Kabir Singh (STU103) added successfully with 15 encodings.
+[2026-06-23 11:33:11] INFO [database:db_manager.py:159] - Student Diya Patel (STU104) added successfully with 15 encodings.
+[2026-06-23 11:33:11] INFO [database:db_manager.py:159] - Student Rohan Mehta (STU105) added successfully with 15 encodings.
+[2026-06-23 11:33:11] INFO [database:db_manager.py:159] - Student Vivaan Joshi (STU201) added successfully with 15 encodings.
+[2026-06-23 11:33:11] INFO [database:db_manager.py:159] - Student Ira Trivedi (STU202) added successfully with 15 encodings.
+[2026-06-23 11:33:11] INFO [database:db_manager.py:159] - Student Aditya Nair (STU301) added successfully with 15 encodings.
+[2026-06-23 11:33:11] INFO [database:db_manager.py:159] - Student Zara Sheikh (STU302) added successfully with 15 encodings.
+[2026-06-23 11:33:11] INFO [database:db_manager.py:159] - Student Devendra Rao (STU401) added successfully with 15 encodings.
+[2026-06-23 11:33:11] INFO [ml_predictor:predictor.py:306] - Inserted 420 attendance logs into database.
+[2026-06-23 11:33:11] INFO [ml_predictor:predictor.py:50] - Training risk predictor with 100 training samples.
+[2026-06-23 11:33:11] INFO [ml_predictor:predictor.py:42] - ML model saved successfully at /Users/soham/Smart_Attendance_System/models/risk_predictor.joblib
+[2026-06-23 11:33:11] INFO [ml_predictor:predictor.py:388] - Database seeding completed successfully.
+[2026-06-23 11:34:54] INFO [database:db_manager.py:27] - Initializing database at: /Users/soham/Smart_Attendance_System/data/smart_attend.db
+[2026-06-23 11:34:54] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-23 11:37:31] INFO [database:db_manager.py:27] - Initializing database at: /Users/soham/Smart_Attendance_System/data/smart_attend.db
+[2026-06-23 11:37:31] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-23 11:38:26] INFO [database:db_manager.py:27] - Initializing database at: /Users/soham/Smart_Attendance_System/data/smart_attend.db
+[2026-06-23 11:38:26] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-23 11:38:53] INFO [database:db_manager.py:27] - Initializing database at: /Users/soham/Smart_Attendance_System/data/smart_attend.db
+[2026-06-23 11:38:53] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-23 11:39:02] INFO [database:db_manager.py:27] - Initializing database at: /Users/soham/Smart_Attendance_System/data/smart_attend.db
+[2026-06-23 11:39:02] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-23 11:42:58] INFO [database:db_manager.py:27] - Initializing database at: /Users/soham/Smart_Attendance_System/data/smart_attend.db
+[2026-06-23 11:42:58] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-23 11:42:59] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-23 11:43:17] INFO [ml_predictor:predictor.py:27] - Successfully loaded ML model from disk.
+[2026-06-23 11:44:02] INFO [dashboard_view:dashboard_view.py:69] - Live attendance session started.
+[2026-06-29 12:28:20] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 12:28:20] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 12:29:25] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 12:29:26] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 12:29:53] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 12:29:53] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 13:49:52] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 13:49:52] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 13:53:09] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 13:53:09] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 13:54:54] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 13:54:54] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 13:54:58] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 13:54:58] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 13:55:07] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 13:55:07] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 14:00:34] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 14:00:34] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 14:12:22] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 14:12:22] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 14:12:54] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 14:12:54] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 14:17:01] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 14:17:01] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 14:17:01] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 14:17:01] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 14:17:04] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 14:17:04] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 14:21:50] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 14:21:50] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 14:21:52] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 14:23:21] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 14:23:21] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 14:23:21] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 14:23:48] INFO [dashboard_view:dashboard_view.py:69] - Live attendance session started.
+[2026-06-29 14:24:46] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 14:24:46] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 14:24:48] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 14:26:39] INFO [ml_predictor:predictor.py:27] - Successfully loaded ML model from disk.
+[2026-06-29 14:26:44] INFO [ml_predictor:predictor.py:27] - Successfully loaded ML model from disk.
+[2026-06-29 14:27:50] INFO [ml_predictor:predictor.py:27] - Successfully loaded ML model from disk.
+[2026-06-29 14:28:03] INFO [ml_predictor:predictor.py:27] - Successfully loaded ML model from disk.
+[2026-06-29 14:31:23] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 14:31:23] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 14:31:23] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 14:31:23] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 14:31:25] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 14:31:25] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 14:36:18] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 14:36:18] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 14:36:20] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 14:36:25] INFO [ml_predictor:predictor.py:27] - Successfully loaded ML model from disk.
+[2026-06-29 14:38:23] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 14:38:23] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 14:38:25] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 14:38:31] INFO [ml_predictor:predictor.py:27] - Successfully loaded ML model from disk.
+[2026-06-29 14:40:24] INFO [database:db_manager.py:159] - Student Dhairya Oza (s123) added successfully with 15 encodings.
+[2026-06-29 14:40:49] INFO [dashboard_view:dashboard_view.py:69] - Live attendance session started.
+[2026-06-29 14:45:43] INFO [dashboard_view:dashboard_view.py:69] - Live attendance session started.
+[2026-06-29 14:46:16] INFO [dashboard_view:dashboard_view.py:69] - Live attendance session started.
+[2026-06-29 14:46:30] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 14:46:30] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 14:46:32] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 14:46:39] INFO [dashboard_view:dashboard_view.py:69] - Live attendance session started.
+[2026-06-29 14:47:40] INFO [database:db_manager.py:159] - Student Dhairya Ozad (s12346) added successfully with 15 encodings.
+[2026-06-29 14:47:51] INFO [dashboard_view:dashboard_view.py:69] - Live attendance session started.
+[2026-06-29 14:56:05] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 14:56:05] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 14:56:07] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 14:56:15] INFO [dashboard_view:dashboard_view.py:69] - Live attendance session started.
+[2026-06-29 15:02:24] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 15:02:24] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 15:02:26] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 15:02:33] INFO [dashboard_view:dashboard_view.py:69] - Live attendance session started.
+[2026-06-29 15:04:52] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 15:04:52] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 15:04:53] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 15:04:53] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 15:04:54] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 15:05:48] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 15:05:48] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 15:08:03] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 15:08:03] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 15:08:05] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 15:08:18] INFO [dashboard_view:dashboard_view.py:69] - Live attendance session started.
+[2026-06-29 19:17:06] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 19:17:06] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 19:17:18] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 19:20:12] INFO [dashboard_view:dashboard_view.py:69] - Live attendance session started.
+[2026-06-29 19:35:31] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 19:35:31] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 19:35:33] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 19:35:43] INFO [dashboard_view:dashboard_view.py:69] - Live attendance session started.
+[2026-06-29 19:41:45] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 19:41:45] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 19:41:47] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 19:42:21] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 19:42:21] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 19:42:21] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 19:42:21] INFO [dashboard_view:dashboard_view.py:69] - Live attendance session started.
+[2026-06-29 19:43:07] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 19:43:07] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 19:43:09] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 19:45:39] INFO [database:db_manager.py:210] - Student s12346 deleted successfully.
+[2026-06-29 19:47:01] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 19:47:01] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 19:47:03] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 19:47:53] INFO [dashboard_view:dashboard_view.py:69] - Live attendance session started.
+[2026-06-29 19:59:19] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 19:59:19] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 19:59:21] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 19:59:27] INFO [dashboard_view:dashboard_view.py:69] - Live attendance session started.
+[2026-06-29 20:02:25] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 20:02:25] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 20:02:28] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 20:02:35] INFO [dashboard_view:dashboard_view.py:69] - Live attendance session started.
+[2026-06-29 20:03:58] INFO [dashboard_view:dashboard_view.py:69] - Live attendance session started.
+[2026-06-29 20:06:57] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 20:06:57] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 20:06:59] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 20:07:06] INFO [dashboard_view:dashboard_view.py:69] - Live attendance session started.
+[2026-06-29 20:10:42] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 20:10:42] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 20:10:44] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 20:13:28] INFO [dashboard_view:dashboard_view.py:69] - Live attendance session started.
+[2026-06-29 20:14:18] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 20:14:18] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 20:14:20] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 20:21:25] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 20:21:25] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 20:21:27] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 20:21:33] INFO [dashboard_view:dashboard_view.py:69] - Live attendance session started.
+[2026-06-29 20:22:55] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 20:22:55] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 20:22:57] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 20:23:05] INFO [dashboard_view:dashboard_view.py:69] - Live attendance session started.
+[2026-06-29 20:26:43] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 20:26:43] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 20:26:45] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 20:26:52] INFO [dashboard_view:dashboard_view.py:69] - Live attendance session started.
+[2026-06-29 20:32:47] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 20:32:47] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 20:32:49] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 20:32:57] INFO [dashboard_view:dashboard_view.py:69] - Live attendance session started.
+[2026-06-29 20:41:58] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 20:41:58] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 20:42:00] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 20:44:22] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 20:44:22] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 20:44:22] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 20:46:00] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 20:46:00] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 20:46:00] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 20:46:00] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 20:46:02] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 20:46:02] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 20:46:50] ERROR [dashboard_view:dashboard_view.py:66] - Failed to open webcam at index 0
+[2026-06-29 20:47:44] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 20:47:44] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 20:47:44] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 20:47:51] INFO [dashboard_view:dashboard_view.py:69] - Live attendance session started.
+[2026-06-29 21:05:22] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 21:05:22] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 21:05:24] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 21:05:32] INFO [dashboard_view:dashboard_view.py:69] - Live attendance session started.
+[2026-06-29 21:06:37] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 21:06:37] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 21:06:37] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 21:07:55] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 21:07:55] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 21:07:55] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 21:11:20] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 21:11:20] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 21:11:23] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 21:11:30] INFO [dashboard_view:dashboard_view.py:69] - Live attendance session started.
+[2026-06-29 21:11:48] INFO [dashboard_view:dashboard_view.py:179] - Marked Dhairya Oza present at 21:11:48 (VERIFIED)
+[2026-06-29 22:36:59] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 22:36:59] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 22:37:04] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 22:37:22] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\admin\Downloads\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-06-29 22:37:22] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-06-29 22:37:22] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
+[2026-06-29 22:37:40] INFO [database:db_manager.py:210] - Student s123 deleted successfully.
