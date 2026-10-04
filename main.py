@@ -20,27 +20,63 @@ st.set_page_config(
 # Load global CSS
 inject_custom_css()
 
+
+def get_biometric_status():
+    try:
+        import cv2  # noqa: F401
+        import face_recognition  # noqa: F401
+        return True, None
+    except Exception as exc:
+        return False, str(exc)
+
+
 # Initialize Database Manager in session state
 if "db_manager" not in st.session_state:
     st.session_state.db_manager = DatabaseManager()
 
 # Initialize Face Engine (Lazy load detector to improve load times for non-CV tabs)
 if "detector" not in st.session_state:
-    try:
-        from face_engine.detector import FaceDetector
-        st.session_state.detector = FaceDetector()
-    except Exception as e:
+    biometric_ready, biometric_error = get_biometric_status()
+    if biometric_ready:
+        try:
+            from face_engine.detector import FaceDetector
+            st.session_state.detector = FaceDetector()
+        except Exception as e:
+            st.session_state.detector = None
+            st.warning(
+                "Camera-based attendance features are unavailable right now. "
+                f"The face engine could not initialize: {e}. "
+                "Install the dependencies with: "
+                "C:/Users/visha/AppData/Local/Programs/Python/Python312/python.exe -m pip install -r requirements.txt"
+            )
+    else:
         st.session_state.detector = None
-        st.error(f"Failed to load biometric detection engine: {e}")
+        st.info(
+            "Camera-based attendance features are disabled because OpenCV / face-recognition are not available on this machine. "
+            f"Detected issue: {biometric_error}. "
+            "Install Visual Studio C++ Build Tools if you want facial recognition enabled, then run: "
+            "C:/Users/visha/AppData/Local/Programs/Python/Python312/python.exe -m pip install -r requirements.txt"
+        )
 
 # Initialize Anti-Proxy Engine in session state so it maintains tracking logs across redraws
 if "anti_proxy" not in st.session_state:
-    try:
-        from face_engine.anti_proxy import AntiProxyEngine
-        st.session_state.anti_proxy = AntiProxyEngine()
-    except Exception as e:
+    biometric_ready, biometric_error = get_biometric_status()
+    if biometric_ready:
+        try:
+            from face_engine.anti_proxy import AntiProxyEngine
+            st.session_state.anti_proxy = AntiProxyEngine()
+        except Exception as e:
+            st.session_state.anti_proxy = None
+            st.warning(
+                "Anti-proxy verification is unavailable right now because the face engine did not initialize: "
+                f"{e}"
+            )
+    else:
         st.session_state.anti_proxy = None
-        st.error(f"Failed to load anti-proxy engine: {e}")
+        st.info(
+            "Anti-proxy verification remains off until the biometric dependencies are installed. "
+            f"Reason: {biometric_error}"
+        )
 
 db_manager = st.session_state.db_manager
 detector = st.session_state.detector
@@ -81,14 +117,19 @@ st.sidebar.markdown("""
 # Route Menu options to Views
 if selected_menu == "🏠 Live Dashboard":
     if detector is None or anti_proxy is None:
-        st.error("Biometric libraries (face_recognition/cv2) failed to load. Check installation logs.")
+        st.info(
+            "Live camera and anti-proxy features are unavailable in this environment until the biometric dependencies are installed. "
+            "Use the attendance records and analytics pages, or install the camera stack to enable live verification."
+        )
     else:
         from app.views.dashboard_view import render_dashboard
         render_dashboard(db_manager, detector, anti_proxy)
 
 elif selected_menu == "👤 Student Registration":
     if detector is None:
-        st.error("Biometric libraries failed to load.")
+        st.info(
+            "Student registration with live face capture is unavailable until OpenCV and face-recognition are installed."
+        )
     else:
         from app.views.registration_view import render_registration
         render_registration(db_manager, detector)

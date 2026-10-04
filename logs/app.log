@@ -221,3 +221,31 @@
 [2026-06-29 22:37:22] INFO [database:db_manager.py:93] - Database initialized successfully.
 [2026-06-29 22:37:22] INFO [face_detector:detector.py:13] - FaceDetector initialized with distance threshold: 0.55
 [2026-06-29 22:37:40] INFO [database:db_manager.py:210] - Student s123 deleted successfully.
+[2026-10-02 13:42:03] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\visha\OneDrive\Desktop\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-10-02 13:42:03] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-10-02 13:42:31] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\visha\OneDrive\Desktop\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-10-02 13:42:31] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-10-02 13:43:12] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\visha\OneDrive\Desktop\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-10-02 13:43:12] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-10-02 13:44:10] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\visha\OneDrive\Desktop\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-10-02 13:44:10] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-10-02 13:46:28] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\visha\OneDrive\Desktop\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-10-02 13:46:28] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-10-02 13:46:47] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\visha\OneDrive\Desktop\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-10-02 13:46:47] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-10-02 13:47:56] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\visha\OneDrive\Desktop\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-10-02 13:47:57] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-10-02 13:48:03] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\visha\OneDrive\Desktop\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-10-02 13:48:03] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-10-02 13:48:04] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\visha\OneDrive\Desktop\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-10-02 13:48:04] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-10-02 13:48:05] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\visha\OneDrive\Desktop\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-10-02 13:48:05] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-10-02 13:49:17] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\visha\OneDrive\Desktop\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-10-02 13:49:17] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-10-02 13:50:22] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\visha\OneDrive\Desktop\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-10-02 13:50:22] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-10-02 13:50:47] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\visha\OneDrive\Desktop\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-10-02 13:50:47] INFO [database:db_manager.py:93] - Database initialized successfully.
+[2026-10-02 13:55:22] INFO [database:db_manager.py:27] - Initializing database at: C:\Users\visha\OneDrive\Desktop\Smart_Attendance_System-main\Smart_Attendance_System-main\data\smart_attend.db
+[2026-10-02 13:55:22] INFO [database:db_manager.py:93] - Database initialized successfully.
